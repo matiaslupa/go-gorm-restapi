@@ -1,3 +1,3 @@
 # Go REST API CRUD
 
-Utilizando Docker, Go y PostgreSQL 
+REST API CRUD de usuarios y tareas utilizando Docker, Go y PostgreSQL 
